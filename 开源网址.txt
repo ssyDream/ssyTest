@@ -1,0 +1,76 @@
+1.Spring Framework
+http://projects.spring.io/spring-framework/
+2.Spring MVC
+http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/#mvc
+3.Apache Shiro
+http://shiro.apache.org/
+4.Spring Session
+ http://projects.spring.io/spring-session/
+5.Mybatis
+http://www.mybatis.org/mybatis-3/zh/index.html
+6.MyBatis Generator
+http://www.mybatis.org/generator/index.html
+7.PageHelper
+MyBatis物理分页插件
+http://git.oschina.net/free/Mybatis_PageHelper
+8.Druid
+数据库连接池
+https://github.com/alibaba/druid
+9.FluentValidator
+校验框架
+https://github.com/neoremind/fluent-validator
+10.Thymeleaf
+模板引擎
+http://www.thymeleaf.org/
+11.Velocity
+模板引擎
+http://velocity.apache.org/
+12.ZooKeeper
+分布式协调服务
+http://zookeeper.apache.org/
+13.dubbo
+分布式服务框架
+http://dubbo.io/
+14.TBSchedule & elastic-job
+分布式调度框架
+https://github.com/dangdangdotcom/elastic-job
+15.Redis
+分布式缓存数据库
+https://redis.io/
+16.Solr & Elasticsearch
+分布式全文搜索引擎
+http://lucene.apache.org/solr/
+https://www.elastic.co/
+17.Quartz
+作业调度框架
+http://www.quartz-scheduler.org/
+18.Ehcache
+进程内缓存框架
+http://www.ehcache.org/
+19.ActiveMQ
+消息队列
+http://activemq.apache.org/
+20.JStorm
+实时流式计算框架
+http://jstorm.io/
+21.FastDFS
+分布式文件系统
+https://github.com/happyfish100/fastdfs
+22.Log4J
+日志组件
+http://logging.apache.org/log4j/1.2/
+23.Swagger2
+接口测试框架
+http://swagger.io/
+24.sequence
+分布式高效ID生产 
+http://git.oschina.net/yu120/sequence
+25.Protobuf & json
+数据序列化
+https://github.com/google/protobuf
+26.Jenkins
+持续集成工具
+https://jenkins.io/index.html
+27.Maven
+项目构建管理
+http://maven.apache.org/
